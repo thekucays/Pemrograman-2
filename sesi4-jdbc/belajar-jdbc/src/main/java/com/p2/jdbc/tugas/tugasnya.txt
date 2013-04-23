@@ -1,0 +1,9 @@
+buat tabel terserah dengan tipe data
+. int
+. decimal
+. date
+. varchar
+. text
+
+buat program untuk CRUD nya
+	

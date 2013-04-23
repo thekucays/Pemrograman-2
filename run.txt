@@ -1,0 +1,8 @@
+buat projek
+mvn archetype:create -Dgroupid=lat.maven -Dartifactid=latihan
+
+compile
+mvn clean package
+
+run
+mvn exec:java -Dexec.mainClass=p2.latihan.maven.Halo  //halo nama Halo.java nya

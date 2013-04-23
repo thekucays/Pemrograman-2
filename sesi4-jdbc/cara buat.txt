@@ -1,0 +1,7 @@
+Bikin Projeknya
+	mvn archetype:create -DgroupId=com.p2.jdbc -DartifactId=belajar-jdbc
+
+eksekusi
+	mvn exec:java -Dexec.mainClass=com.p2.jdbc.latihan.Main
+
+jangan lupa edit pom.xml
