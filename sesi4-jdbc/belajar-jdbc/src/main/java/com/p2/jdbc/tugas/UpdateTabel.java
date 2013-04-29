@@ -14,7 +14,7 @@ public class UpdateTabel{
 			
 			BigDecimal ipk = new BigDecimal(3.20);
 			
-			String query = "update terserah set Alamat = ? where Nama = 'Daniel'";
+			String query = "update terserah set Alamat = ? where Nama = 'Luki'";
 			PreparedStatement ps = conn.prepareStatement(query);
 			ps.setString(1, "Djakarta");
 			int hasil = ps.executeUpdate();

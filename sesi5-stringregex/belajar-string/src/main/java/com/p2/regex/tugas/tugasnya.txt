@@ -1,0 +1,7 @@
+buat aplikasi java sederhana dengan syarat
+user dapat meng-input :
+
+1. Nama			--> alay / ga
+2. Email		
+3. Tanggal lahir
+4. situs
