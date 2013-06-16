@@ -1,0 +1,17 @@
+bikin 
+
+1. tampil mahasiswa
+
+2. input mahasiswa
+
+3. cari mahasiswa
+	
+	a. bisa diedit
+	
+	b. bisa ditambah mata kuliah
+
+4. tampil daftar mata kuliah
+
+5. tambah matakuliah
+
+6. exit

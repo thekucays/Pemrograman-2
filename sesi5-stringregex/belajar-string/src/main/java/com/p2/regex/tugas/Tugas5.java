@@ -1,4 +1,4 @@
-package com.p2.regex.tugas;
+//package com.p2.regex.tugas;
 
 import java.util.regex.*;
 import java.util.Scanner;
